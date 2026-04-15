@@ -29,16 +29,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanyashraf12010-cpu&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanyashraf12010-cpu&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="www.linkedin.com/in/amany-ashraf-aa63b7347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="amany.ashraf12010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amany-ashraf-aa63b7347"><img src="https://img.shields.io/badge/LinkedIn-Amany%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amany.ashraf12010@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
