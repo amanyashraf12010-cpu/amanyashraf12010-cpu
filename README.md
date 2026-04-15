@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanyashraf12010-cpu&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanyashraf12010-cpu&theme=tokyonight"/>
+ 
 </p>
 
 ---
