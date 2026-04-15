@@ -38,7 +38,7 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/amany-ashraf-aa63b7347"><img src="https://img.shields.io/badge/LinkedIn-Amany%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amany.ashraf12010@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="amany.ashraf12010@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
